@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                   
+
+    
+                 
+                             
+                                                       
+           
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:padding="4dp" android:tag="layout/item_number_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+        <ImageView
+            android:id="@+id/imageViewNumber"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:tag="binding_1"                               
+                                                        
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:src="@drawable/num_1" />
+
+        <TextView
+            android:id="@+id/textViewEnglish"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="12dp"
+            android:layout_marginEnd="8dp"
+            android:tag="binding_2"                 
+            android:textColor="@android:color/black"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toTopOf="@id/textViewArabic"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@id/imageViewNumber"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_chainStyle="packed"
+            tools:text="One" />
+
+        <TextView
+            android:id="@+id/textViewArabic"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="12dp"
+            android:layout_marginEnd="8dp"
+            android:layoutDirection="rtl"
+            android:tag="binding_3"                
+            android:textColor="#555555"
+            android:textSize="16sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@id/imageViewNumber"
+            app:layout_constraintTop_toBottomOf="@id/textViewEnglish"
+            tools:text="واحد" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+         

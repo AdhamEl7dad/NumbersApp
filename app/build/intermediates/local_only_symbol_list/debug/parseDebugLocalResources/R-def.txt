@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable num_1
+drawable num_10
+drawable num_2
+drawable num_3
+drawable num_4
+drawable num_5
+drawable num_6
+drawable num_7
+drawable num_8
+drawable num_9
+id imageViewNumber
+id recyclerView
+id textViewArabic
+id textViewEnglish
+layout activity_main
+layout item_number
+string app_name
+style Theme.NumbersApp

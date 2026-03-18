@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\work shop\\.gradle\\daemon\\8.4\\com.example.numbersapp-debug-36:\\layout_item_number.xml.flat",
+        "source": "C:\\Users\\work shop\\.gradle\\daemon\\8.4\\com.example.numbersapp-main-38:\\layout\\item_number.xml"
+    },
+    {
+        "merged": "com.example.numbersapp-debug-36:/drawable_num_6.xml.flat",
+        "source": "com.example.numbersapp-main-38:/drawable/num_6.xml"
+    },
+    {
+        "merged": "com.example.numbersapp-debug-36:/drawable_num_8.xml.flat",
+        "source": "com.example.numbersapp-main-38:/drawable/num_8.xml"
+    },
+    {
+        "merged": "com.example.numbersapp-debug-36:/drawable_num_1.xml.flat",
+        "source": "com.example.numbersapp-main-38:/drawable/num_1.xml"
+    },
+    {
+        "merged": "com.example.numbersapp-debug-36:/drawable_num_10.xml.flat",
+        "source": "com.example.numbersapp-main-38:/drawable/num_10.xml"
+    },
+    {
+        "merged": "com.example.numbersapp-debug-36:/drawable_num_7.xml.flat",
+        "source": "com.example.numbersapp-main-38:/drawable/num_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\work shop\\.gradle\\daemon\\8.4\\com.example.numbersapp-debug-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\work shop\\.gradle\\daemon\\8.4\\com.example.numbersapp-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.numbersapp-debug-36:/drawable_num_2.xml.flat",
+        "source": "com.example.numbersapp-main-38:/drawable/num_2.xml"
+    },
+    {
+        "merged": "com.example.numbersapp-debug-36:/drawable_num_3.xml.flat",
+        "source": "com.example.numbersapp-main-38:/drawable/num_3.xml"
+    },
+    {
+        "merged": "com.example.numbersapp-debug-36:/drawable_num_9.xml.flat",
+        "source": "com.example.numbersapp-main-38:/drawable/num_9.xml"
+    },
+    {
+        "merged": "com.example.numbersapp-debug-36:/drawable_num_5.xml.flat",
+        "source": "com.example.numbersapp-main-38:/drawable/num_5.xml"
+    },
+    {
+        "merged": "com.example.numbersapp-debug-36:/drawable_num_4.xml.flat",
+        "source": "com.example.numbersapp-main-38:/drawable/num_4.xml"
+    }
+]

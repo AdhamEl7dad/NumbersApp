@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.numbersapp-mergeDebugResources-35:/layout/item_number.xml",
+        "source": "com.example.numbersapp-main-38:/layout/item_number.xml"
+    },
+    {
+        "merged": "com.example.numbersapp-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "com.example.numbersapp-main-38:/layout/activity_main.xml"
+    }
+]
